@@ -1,0 +1,3 @@
+[submodule "vultair_portal"]
+	path = vultair_portal
+	url = https://github.com/r3tr056/vultair_portal.git
